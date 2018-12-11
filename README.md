@@ -9,7 +9,7 @@ Code : [barchart.html](https://github.com/mayojich/d3/blob/master/barchart/barch
 Data: [xyz.csv](https://github.com/mayojich/d3/blob/master/barchart/xyz.csv)
 
 How to run this locally: 
-1. Download barchart.html and xyz.csv.
+1. Download *barchart.html* and *xyz.csv*.
 2. cd to the folder the files are in.
-3. In the command line, type: `python -m http.server 8000`
+3. In the command line, type: `python -m http.server 8000` (make sure you have python already installed).
 4. Open [localhost:8000](https://localhost:8000/barchart.html) in the browser.
