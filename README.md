@@ -2,7 +2,8 @@
 Coloured pattern demo with d3.js.  
 Code: [d3.html](https://github.com/mayojich/d3/blob/master/d3.html)
 
-### Bar Chart
+### [Bar Chart](https://mayojich.github.io/d3/barchart)
+[World GDP](https://mayojich.github.io/d3/World_GDP)
 A bar chart created with d3.js. Inline comments are included in the html file.  
 <img src="https://raw.githubusercontent.com/mayojich/d3/master/barchart/d3-barchart.PNG" width="450" height="350" />  
 Code : [barchart.html](https://github.com/mayojich/d3/blob/master/barchart/barchart.html)  
